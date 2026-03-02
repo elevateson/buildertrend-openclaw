@@ -1,3 +1,10 @@
+---
+name: buildertrend
+description: "Complete Buildertrend automation via Browser Relay - 43 playbooks covering sales, project management, financials, scheduling, change orders, daily logs, RFIs, punch lists, invoicing, procurement. No API required."
+homepage: https://github.com/elevateson/buildertrend-openclaw
+metadata: { "openclaw": { "requires": { "capabilities": ["browser"] } } }
+---
+
 # Buildertrend Skill — {{company_name}}
 
 ## Overview
